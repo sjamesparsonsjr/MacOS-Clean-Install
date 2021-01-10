@@ -43,19 +43,17 @@ Python
 [Blender](https://www.blender.org/download/)
 
 ## Fabrication
-CHITUBOX
-KiCad
-OpenScade
-Slic3r
-
-Fritzing
+[CHITUBOX](https://www.chitubox.com/en/download/chitubox-free)
+[KiCad](https://kicad.org/download/)
+[OpenScad](https://www.openscad.org/downloads.html)
+[Slic3r](https://dl.slic3r.org/mac/)
+[Fritzing](https://fritzing.org/download/?paid)
 
 ## Business
-GoToMeeting
-Slack
-Microsoft Teams
-Skype
-Zoom
+[Slack](https://slack.com/downloads/mac)
+[Microsoft Teams](https://teams.microsoft.com/uswe-01/downloads)
+[Skype](https://www.skype.com/en/get-skype/)
+[Zoom](https://zoom.us/client/latest/Zoom.pkg)
 
 
 
