@@ -7,11 +7,11 @@
 ## Internet
 [FireFox](https://www.mozilla.org/en-US/firefox/accounts/)
 [LittleSnitch](https://www.obdev.at/products/littlesnitch/download.html)
-[CyborDuck]
-[Filezilla]
-Google Chrome
-Postman
-uTorrent
+[CyborDuck](https://cyberduck.io/download/)
+[Filezilla](https://filezilla-project.org/download.php#close)
+[Google Chrome](https://www.google.com/chrome/thank-you.html?statcb=0&installdataindex=empty&defaultbrowser=0)
+[Postman](https://www.postman.com/downloads/)
+[uTorrent](https://www.utorrent.com/downloads/complete/track/stable/os/osx)
 
 
 ## Productivity
