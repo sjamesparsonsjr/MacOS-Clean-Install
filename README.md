@@ -15,25 +15,25 @@
 
 
 ## Productivity
-[Better Touch Tool]()
+[Better Touch Tool](https://folivora.ai/downloads)
 [QuickSilver](https://qsapp.com/download.php)
-[Duet] <- Look into side car
-GanttProject
-Just Press Record
-Zotero
+[Duet](https://www.duetdisplay.com/) <- Look into side car
+[GanttProject](https://www.ganttproject.biz/download/gp30#mac)
+Just Press Record <- App Store
+[Zotero](https://www.zotero.org/download/)
 
 ## Media
-Radia
-[VLC](https://www.videolan.org/vlc/download-macosx.html)
-[Audacity]
+Radia <- lost
+[VLC](https://get.videolan.org/vlc/3.0.11.1/macosx/vlc-3.0.11.1.dmg)
+[Audacity](https://www.audacityteam.org/download/mac/)
 
 
 ## Programming
 [xCode])(https://developer.apple.com/xcode/)
 [XOJO])(https://www.xojo.com/download/#)
-[Arduino]
-[Atom]
-GitHub Desktop
+[Arduino](https://www.arduino.cc/en/main/OldSoftwareReleases)
+[Atom](https://atom.io/)
+[GitHub Desktop](https://desktop.github.com/)
 Python
 Unity
 
