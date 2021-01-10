@@ -35,12 +35,12 @@ Radia <- lost
 [Atom](https://atom.io/)
 [GitHub Desktop](https://desktop.github.com/)
 Python
-Unity
+[Unity](https://unity3d.com/get-unity/update)
 
 ## Art
-GIMP
-InkSkape
-Blender
+[GIMP](https://www.gimp.org/downloads/)
+[InkSkape](https://inkscape.org/release/inkscape-1.0.1/mac-os-x/1010-1015/dl/)
+[Blender](https://www.blender.org/download/)
 
 ## Fabrication
 CHITUBOX
