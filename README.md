@@ -35,7 +35,7 @@
 4. [Atom](https://atom.io/)
 5. [GitHub Desktop](https://desktop.github.com/)
 6. Python
-7. [Unity](https://unity3d.com/get-unity/update)
+7. [Unity](https://unity3d.com/get-unity/download)
 
 ## Art
 1. [GIMP](https://www.gimp.org/downloads/)
