@@ -34,7 +34,7 @@
 3. [Arduino](https://www.arduino.cc/en/main/OldSoftwareReleases)
 4. [Atom](https://atom.io/)
 5. [GitHub Desktop](https://desktop.github.com/)
-6. Python
+6. [Python](https://www.python.org/downloads/)
 7. [Unity](https://unity3d.com/get-unity/download)
 
 ## Art
