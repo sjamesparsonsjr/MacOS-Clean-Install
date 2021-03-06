@@ -56,12 +56,11 @@
 4. [Zoom](https://zoom.us/client/latest/Zoom.pkg)
 
 ## Terminal
-Home Brew ``` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ```
-pip 
-1. ``` curl https://bootstrap.pypa.io/get-pip.py -o get-pip. ``` 
-2. ``` python3 get-pip.py ```
-
-Python language server ```python3 -m pip install 'python-language-server[all]' ```
+1. Home Brew ``` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ```
+2. pip 
+- ``` curl https://bootstrap.pypa.io/get-pip.py -o get-pip. ``` 
+- ``` python3 get-pip.py ```
+3. Python language server ```python3 -m pip install 'python-language-server[all]' ```
 
 
 
