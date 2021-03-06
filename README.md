@@ -55,5 +55,12 @@
 3. [Skype](https://www.skype.com/en/get-skype/)
 4. [Zoom](https://zoom.us/client/latest/Zoom.pkg)
 
+## Terminal
+Home Brew ``` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ```
+pip 
+1. ``` curl https://bootstrap.pypa.io/get-pip.py -o get-pip. ``` 
+2. ``` python3 get-pip.py ```
+Python language server ```python3 -m pip install 'python-language-server[all]' ```
+
 
 
