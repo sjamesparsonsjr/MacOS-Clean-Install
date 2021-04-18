@@ -12,6 +12,7 @@
 5. [Google Chrome](https://www.google.com/chrome/thank-you.html?statcb=0&installdataindex=empty&defaultbrowser=0)
 6. [Postman](https://www.postman.com/downloads/)
 7. [uTorrent](https://www.utorrent.com/downloads/complete/track/stable/os/osx)
+8. [MAMP](https://www.mamp.info/en/mac/)
 
 
 ## Productivity
@@ -54,6 +55,11 @@
 2. [Microsoft Teams](https://teams.microsoft.com/uswe-01/downloads)
 3. [Skype](https://www.skype.com/en/get-skype/)
 4. [Zoom](https://zoom.us/client/latest/Zoom.pkg)
+
+## BioTech
+1. [Poly](https://github.com/TimothyStiles/poly)
+2. APE
+3. SnapGene
 
 ## Terminal
 1. Home Brew 
