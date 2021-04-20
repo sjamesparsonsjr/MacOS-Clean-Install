@@ -61,6 +61,15 @@
 2. APE
 3. SnapGene
 
+# Web Based
+[OnShape Parametric Modeling](https://onshape.com)
+[Sketchup Parametric Modeling](https://Sketchup.com)
+[SumoPaint Image Editor](https://sumo.app/paint/en)
+
+#Software to Try
+
+
+
 ## Terminal
 1. Home Brew 
 - ``` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ```
