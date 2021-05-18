@@ -28,7 +28,7 @@
 2. [VLC](https://get.videolan.org/vlc/3.0.11.1/macosx/vlc-3.0.11.1.dmg)
 3. [Audacity](https://www.audacityteam.org/download/mac/)
 4. ~~[Loopback 'lets quicktime record computer audio'](https://rogueamoeba.com/loopback/)~~ 
-5. [Sound Cloud](https://www.macupdate.com/app/mac/14067/soundflower/download)
+5. [SoundFlower](https://www.macupdate.com/app/mac/14067/soundflower/download)
 
 ## Programming
 1. [xCode])(https://developer.apple.com/xcode/)
