@@ -50,6 +50,7 @@
 3. [OpenScad](https://www.openscad.org/downloads.html)
 4. [Slic3r](https://dl.slic3r.org/mac/)
 5. [Fritzing](https://fritzing.org/download/?paid)
+6. [Pronterface 64](https://drive.google.com/file/d/1EM29GsKn4BgIRkGDUfsydpVr2sDctWuU/view)
 
 ## Business
 1. [Slack](https://slack.com/downloads/mac)
